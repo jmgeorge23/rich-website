@@ -12,3 +12,4 @@ git add -A
 git commit -m 'deploy'
 git push -f git@github.com:jmgeorge23/rich-website.git master:gh-pages
 cd -
+# abort on errors
