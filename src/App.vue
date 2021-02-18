@@ -37,19 +37,4 @@ body {
   height: 100%;
   background: black;
 }
-
-.overlay-left,
-.overlay-right,
-.overlay-top,
-.overlay-bottom {
-  background: black !important;
-}
-
-a {
-  color: #0094ff;
-  text-decoration: none;
-}
-a:hover {
-  color: #0074c6;
-}
 </style>

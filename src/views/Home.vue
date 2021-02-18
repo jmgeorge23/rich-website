@@ -1,6 +1,7 @@
 <template>
   <div class="body">
     <v-container
+      class="bg-img"
       fluid
       style="margin: 0px; padding: 0px; width: 100%; height: 100%"
     >
@@ -18,7 +19,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 body {
   overflow: hidden;
   height: 100vh;
